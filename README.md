@@ -1,138 +1,226 @@
+<!--
+  ██████╗ ███████╗███████╗██████╗
+  ██╔══██╗██╔════╝██╔════╝██╔══██╗
+  ██║  ██║█████╗  █████╗  ██████╔╝
+  ██║  ██║██╔══╝  ██╔══╝  ██╔═══╝
+  ██████╔╝███████╗███████╗██║
+  ╚═════╝ ╚══════╝╚══════╝╚═╝
+  github.com/dneweb
+-->
+
 <div align="center">
 
-# Hey, I'm Deep 👋
-### Full-Stack Developer · AI/SaaS Builder · Freelance Web Craftsman
+<!--
+  ┌─────────────────────────────────────────────┐
+  │  SECTION 01 · ANIMATED SVG TERMINAL HEADER  │
+  └─────────────────────────────────────────────┘
+-->
 
-*I turn ideas into fast, beautiful, production-ready web products — from corporate platforms to AI-powered SaaS.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2800&pause=1200&color=A0A0A0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=22&lines=deep%40portfolio%3A~%24+whoami">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2800&pause=1200&color=555555&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=22&lines=deep%40portfolio%3A~%24+whoami" alt="terminal prompt">
+</picture>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dneweb)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dneweb)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=4000&color=E8E8E8&center=true&vCenter=true&width=680&height=36&lines=Full-Stack+Developer+%C2%B7+AI+Builder">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=4000&color=111111&center=true&vCenter=true&width=680&height=36&lines=Full-Stack+Developer+%C2%B7+AI+Builder" alt="Deep - Full-Stack Developer">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2500&pause=1000&color=6B6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=22&lines=deep%40portfolio%3A~%24+ls+.%2Fprojects">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2500&pause=1000&color=AAAAAA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=22&lines=deep%40portfolio%3A~%24+ls+.%2Fprojects" alt="ls projects">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=6000&pause=3000&color=5DCAA5&center=true&vCenter=true&width=680&height=22&lines=memora%2F++++western-india%2F++++pcpl-group%2F++++shree-shakti%2F">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=6000&pause=3000&color=1D9E75&center=true&vCenter=true&width=680&height=22&lines=memora%2F++++western-india%2F++++pcpl-group%2F++++shree-shakti%2F" alt="projects list">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2800&pause=1000&color=6B6B6B&center=true&vCenter=true&width=600&height=22&lines=deep%40portfolio%3A~%24+cat+tech-stack.txt">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2800&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&height=22&lines=deep%40portfolio%3A~%24+cat+tech-stack.txt" alt="cat tech stack">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=5000&pause=3000&color=AFA9EC&center=true&vCenter=true&width=680&height=22&lines=React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+MongoDB+%E2%80%A2+Tailwind">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=5000&pause=3000&color=534AB7&center=true&vCenter=true&width=680&height=22&lines=React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+MongoDB+%E2%80%A2+Tailwind" alt="tech stack">
+</picture>
 
 </div>
 
----
+<br>
 
-## 🧠 About Me
+<!--
+  ┌───────────────────────────────────────────────────────────────────┐
+  │  SECTION 02 · SVG HERO BANNER — custom geometric identity poster  │
+  └───────────────────────────────────────────────────────────────────┘
+-->
 
-```ts
-const deep = {
-  role:       ["Full-Stack Developer", "AI/SaaS Builder", "Freelance Dev"],
-  stack:      ["React", "Next.js", "Node.js", "Python", "MongoDB", "Tailwind CSS"],
-  currentlyBuilding: "AI-powered SaaS products & client web platforms",
-  lookingFor: "Exciting freelance projects & long-term collaborations",
-  funFact:    "I've shipped live products for clients across industries — polymers to curcumin to AI 🚀",
-};
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dneweb/dneweb/main/assets/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/dneweb/dneweb/main/assets/banner-light.svg" alt="Deep — Full-Stack Developer, AI Builder" width="100%">
+</picture>
+
+> Alternatively, paste the inline SVG directly in the README (see note below the file)
+
+<br>
+
+<!--
+  ┌────────────────────────────────────────────────────────────┐
+  │  SECTION 03 · BRUTALIST MONOSPACE — identity + stats grid  │
+  └────────────────────────────────────────────────────────────┘
+-->
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   DEEP                                          Ahmedabad, IN   ║
+║   full-stack · ai/saas                              ║
+║                                                                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║   STACK    React · Next.js · Node.js · Python · MongoDB         ║
+║            Tailwind CSS · REST APIs · PostgreSQL                 ║
+║                                                                  ║
+║   SHIPS    4 live products  ·  0 dead links  ·  open to work   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-I'm a developer who works across the full stack — building everything from polished corporate websites to production AI SaaS apps. I care deeply about performance, clean UI, and shipping things that actually work in the real world.
+<br>
 
----
+<!--
+  ┌─────────────────────────────────────────────────────────┐
+  │  SECTION 04 · LIVE CLIENT WORK — brutalist project grid  │
+  └─────────────────────────────────────────────────────────┘
+-->
 
-## 🛠️ Tech Stack
+```
+─────────────────────────────────────────────────────────────────
+  DELIVERED WORK
+─────────────────────────────────────────────────────────────────
+```
 
-**Frontend**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+```
+[ 01 / WESTERN INDIA CO. ]
+────────────────────────────────
+TYPE     Corporate platform
+CLIENT   HDPE polymer supplier
+REACH    40+ countries
+STACK    Next.js · Tailwind · SEO
+```
 
-**Backend & Database**
+**[westernindiaco.com →](https://westernindiaco.com)**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-**Tools & Platforms**
+```
+[ 02 / PCPL GROUP ]
+────────────────────────────────
+TYPE     B2B product platform
+CLIENT   Curcumin manufacturer
+SECTOR   Pharma · Nutraceutical
+STACK    React · Node.js · CSS
+```
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**[pcplgroup.co.in →](https://www.pcplgroup.co.in)**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Live Client Work
+```
+[ 03 / MEMORA ]
+────────────────────────────────
+TYPE     AI SaaS — built end-to-end
+PRODUCT  Neural knowledge engine
+LATENCY  sub-2ms search
+STACK    Next.js · Python · Vercel
+```
 
-> Real projects. Real clients. Real impact.
+**[ai-tracking-engine.vercel.app →](https://ai-tracking-engine.vercel.app/landing)**
 
-### 🏭 [Western India Co.](https://westernindiaco.com/)
-**Premium HDPE Polymer Supplier — serving 40+ countries**
-> Built a professional corporate web presence for one of India's leading polymer suppliers. Clean, fast, and conversion-focused.
-`Next.js` `Tailwind CSS` `SEO Optimized`
+</td>
+<td width="50%" valign="top">
 
----
+```
+[ 04 / SHREE SHAKTI CORP. ]
+────────────────────────────────
+TYPE     Corporate identity site
+CLIENT   Industrial enterprise
+FOCUS    Brand · Speed · Mobile
+STACK    React · Tailwind CSS
+```
 
-### 🌿 [PCPL Group](https://www.pcplgroup.co.in/)
-**Prhizolution Curcumin Pvt. Ltd. — Agri-Ingredient Processor**
-> Farm-to-B2B platform for a backward-integrated curcumin and turmeric extract manufacturer serving pharmaceutical and nutraceutical industries globally.
-`React` `Node.js` `Responsive Design`
+**[shreeshakticorp.com →](https://shreeshakticorp.com)**
 
----
+</td>
+</tr>
+</table>
 
-### 🤖 [Memora — AI Tracking Engine](https://ai-tracking-engine.vercel.app/landing)
-**Your Organization's Neural Memory (SaaS)**
-> Full SaaS product with sub-2ms neural search, Slack/Notion/Google Drive integrations, and real-time knowledge health monitoring. Built end-to-end.
-`Next.js` `Python` `AI/LLM` `Vercel` `SaaS`
+<br>
 
----
-
-### ⚡ [Shree Shakti Corp.](https://shreeshakticorp.com/)
-**Corporate Web Platform**
-> A polished, professional corporate site built to establish a strong digital identity.
-`React` `Tailwind CSS` `Responsive`
-
----
-
-## 📊 GitHub Stats
+```
+─────────────────────────────────────────────────────────────────
+  GITHUB ACTIVITY
+─────────────────────────────────────────────────────────────────
+```
 
 <div align="center">
 
-![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dneweb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=dneweb&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true&rank_icon=github" height="140"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dneweb&layout=compact&theme=graywhite&hide_border=true&hide_title=true" height="140"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dneweb&layout=compact&theme=tokyonight&hide_border=true)
+<br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dneweb&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=dneweb&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=888888&ring=534AB7&fire=D85A30&currStreakNum=111111&sideNums=111111&currStreakLabel=888888&sideLabels=888888&dates=888888" height="120"/>
 
 </div>
 
----
+<br>
 
-## 💼 What I Can Build For You
+```
+─────────────────────────────────────────────────────────────────
+  WHAT I BUILD
+─────────────────────────────────────────────────────────────────
 
-| Service | What you get |
-|---|---|
-| 🌐 **Corporate Website** | Fast, SEO-ready, mobile-first business sites |
-| ⚙️ **Full-Stack Web App** | End-to-end apps with auth, DB, dashboards |
-| 🤖 **AI / SaaS Product** | LLM-powered tools, search engines, knowledge platforms |
-| 🎨 **UI/UX to Code** | Figma designs converted to pixel-perfect React/Next.js |
-| 🛒 **E-Commerce** | Product stores with payments, inventory, and admin panels |
+  Corporate sites       Fast, SEO-first, mobile-ready
+  Full-stack apps       Auth · DB · APIs · Dashboards
+  AI / SaaS products    LLMs · Search engines · Knowledge tools
+  Design-to-code        Figma → pixel-perfect React / Next.js
+  E-commerce            Payments · Inventory · Admin panels
 
----
+─────────────────────────────────────────────────────────────────
+  REACH ME
+─────────────────────────────────────────────────────────────────
 
-## 📫 Let's Connect
+  GitHub     github.com/dneweb
+  LinkedIn   linkedin.com/in/dneweb
+  Email      your@email.com
+  Location   Ahmedabad, India
 
-I'm always open to freelance work, collaborations, or just a good tech conversation.
+─────────────────────────────────────────────────────────────────
+```
 
-- 💼 **Hire me:** [LinkedIn](https://linkedin.com/in/dneweb)
-- 📧 **Email:** your@email.com
-- 🐦 **Twitter/X:** [@dneweb](#)
-- 🌍 **Based in:** Ahmedabad, India 🇮🇳
-
----
+<br>
 
 <div align="center">
-
-*"Ship fast. Build clean. Deliver value."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=dneweb&color=6366f1&style=flat-square&label=Profile+Views)
-
+<img src="https://komarev.com/ghpvc/?username=dneweb&color=534AB7&style=flat-square&label=profile+views" alt="profile views"/>
 </div>
